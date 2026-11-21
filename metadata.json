@@ -1,0 +1,6 @@
+{
+  "name": "BATTLE ROYALE: SURVIVAL ZONE",
+  "description": "3D tactical Battle Royale survival shooter with FPP/TPP cameras, open-world island, realistic weapons, drivable vehicles, parachute drops, and shrinking safe zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
